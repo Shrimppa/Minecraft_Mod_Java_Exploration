@@ -4,7 +4,7 @@ With this project I aim to learn how to use Java to mod minecraft.
 
 This will help me to learn how to work with established codebases, and implement changes to them.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=XqA0jZtK2KM)
 
 # Development Environment
 
