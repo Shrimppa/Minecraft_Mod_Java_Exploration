@@ -1,32 +1,27 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+With this project I aim to learn how to use Java to mod minecraft.
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+This will help me to learn how to work with established codebases, and implement changes to them.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used InteliJ IDEA as the IDE for writing this software.
 
-{Describe the programming language that you used and any libraries.}
+I used Oracles open source Java-20 SDK.
+
+I used Minecraft Forge to mod the game files.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Jetbrains InteliJ](https://www.jetbrains.com/idea/)
+- [Minecraft Forge](https://docs.minecraftforge.net/en/latest/gettingstarted/)
+- [Oracle Java](https://www.oracle.com/java/technologies/downloads/#jdk20-windows)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Make music play when drinking strong cocacola
+- Make visual effects after drinking cocacola
+- Make custom effect happen after other effects wear off
